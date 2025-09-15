@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-Welcome! 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3eb1cd25-9391-4431-9e28-0866a4c053a8" />
 </div>
 
 <!-- Footer / Banner -->
